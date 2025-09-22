@@ -5,7 +5,7 @@ dataset: https://www.kaggle.com/datasets/arjuntejaswi/plant-village/data
 
 <img width="1483" height="1567" alt="image" src="https://github.com/user-attachments/assets/1a1e3adf-43b3-49b3-af2b-5ed5b8bbadb9" /> <br>
 
-**Potato Disease Prediction**
+**Potato Disease Prediction** <br>
 This project is a **Potato Disease Prediction System** using Deep Learning and Convolutional Neural Networks (CNNs).
 The model is trained on the PlantVillage dataset and classifies potato leaf images into three categories:
 
